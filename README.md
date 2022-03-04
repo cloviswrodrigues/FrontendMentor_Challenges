@@ -1,9 +1,11 @@
 # Desafios Frontend Mentor
 
-- repositório criado para referênciar todos os projetos já realizados nos desafios do [FrontEnd Mentor](https://www.frontendmentor.io/challenges), irei atualizando os links conforme finalização dos projetos, vale resaltar que estou fazendo os desafios gratuitos que a plataforma disponibiliza.
+Repositório criado para referênciar todos os projetos já realizados nos desafios do [FrontEnd Mentor](https://www.frontendmentor.io/challenges), irei atualizando os links conforme finalização dos projetos, vale resaltar que estou fazendo os desafios gratuitos que a plataforma disponibiliza.
+
+📌Fique a vontade para dar feedback nos projetos
 
 ## Nivel Newbie
-Nesse nivel os projetos foram na maior parte feito com HTML, CSS/SASS e um pouco de JS para pequenas validações de formulários, além disso em cada repositório linkado, você poderá ver um Readme para entender um pouco mais sobre o projeto e como ficou seu layout final.
+Nesse nivel os projetos foram na maior parte feito com HTML, CSS/SASS e um pouco de JS para pequenas validações de formulários, além disso em cada repositório linkado, você poderá ver um README para entender um pouco mais sobre o projeto e como ficou seu layout final.
 
 - [Huddle landing page with a single introductory section](https://github.com/cloviswrodrigues/huddle_landing_page)
 - [Ping single column coming soon page](https://github.com/cloviswrodrigues/ping_single_column_coming_soon_page_challenge_hub)
