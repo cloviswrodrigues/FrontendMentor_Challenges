@@ -24,5 +24,8 @@ Nesse nivel os projetos foram na maior parte feito com HTML, CSS/SASS e um pouco
 - [QR code component](https://github.com/cloviswrodrigues/qr_code_component)
 
 ## Nivel Junior
-🚧 Em Construção 🚧
+- [Huddle landing page with curved sections](https://github.com/cloviswrodrigues/huddle_landing_page_with_curved_sections_challenge_hub)
+- [Fylo landing page with two column layout](https://github.com/cloviswrodrigues/fylo_landing_page_with_two_column)
+- [Fylo_dark_theme_landing_page](https://github.com/cloviswrodrigues/fylo_dark_theme_landing_page)
+- 🚧 Em Construção 🚧
 
